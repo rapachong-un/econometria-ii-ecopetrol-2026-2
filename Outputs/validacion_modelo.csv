@@ -1,0 +1,9 @@
+Prueba,Valor_p,Conclusion_5pct
+Ljung-Box residuos (5),0.134191,No rechazar H0
+Ljung-Box residuos (10),0.32321,No rechazar H0
+Ljung-Box residuos (20),0.590332,No rechazar H0
+ARCH-LM,1.172274e-15,Rechazar H0
+Jarque-Bera,0.0,Rechazar H0
+Ljung-Box residuos cuadrados (5),1.002912e-26,Rechazar H0
+Ljung-Box residuos cuadrados (10),1.218957e-23,Rechazar H0
+Ljung-Box residuos cuadrados (20),1.337535e-20,Rechazar H0
